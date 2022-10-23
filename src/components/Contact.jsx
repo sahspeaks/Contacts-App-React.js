@@ -13,7 +13,7 @@ export default class Contact extends Component {
               Name: {first_name} {last_name}
             </h5>
             <p className="card-text">Email: {email}</p>
-            <a href="tel:+919393606147" className="btn btn-sm btn-success">
+            <a href="tel:+91123456789" className="btn btn-sm btn-success">
               <i className="fa-solid fa-phone"></i> Call Me
             </a>
           </div>
